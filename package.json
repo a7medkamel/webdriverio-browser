@@ -1,0 +1,19 @@
+{
+  "name": "webdriverio-browser",
+  "version": "0.1.0",
+  "description": "Implementation of WebdriverIO that runs within the browser for karma/mocha tests",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BingAds/webdriverio-browser.git"
+  },
+  "author": "a7medkamel",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/BingAds/webdriverio-browser/issues"
+  },
+  "homepage": "https://github.com/BingAds/webdriverio-browser#readme"
+}
